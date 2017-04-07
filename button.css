@@ -2,9 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    /*background-color: black;*/
-    /*background: url("background.jpg") no-repeat;*/
-    /*background-size: cover;*/
+    
 }
 a{
     text-decoration: none;
@@ -12,7 +10,7 @@ a{
 #container{
     width: 1400px;
     height: 800px;
-    margin: 50px auto;
+    margin: 280px auto;
     background: url("background.jpg") no-repeat;
     background-size: cover;
     padding-left: 220px;

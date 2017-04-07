@@ -12,7 +12,7 @@ a{
 #container{
     width: 1400px;
     height: 800px;
-    margin: 0px auto;
+    margin: 50px auto;
     background: url("background.jpg") no-repeat;
     background-size: cover;
     padding-left: 220px;
